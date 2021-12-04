@@ -18,3 +18,33 @@
     margin-bottom: 5px;
 }
 
+.main-container {
+    width: 99%;
+    height: 500px;
+    margin: auto;
+}
+
+.title {
+    width: 90%;
+    margin-top: 20px;
+}
+
+#first-title {
+    font-size: 23px;
+}
+
+#second-title {
+    color: grey;
+}
+
+#second-title span {
+    color: rgb(93, 161, 248);
+}
+
+#picture-1 {
+    width: 650px;
+}
+
+#picture-2 {
+    width: 556px;;
+}
