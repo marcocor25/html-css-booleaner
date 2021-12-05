@@ -1,0 +1,105 @@
+* {
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pattern {
+    width: 100%;
+    background: rgb(93, 161, 248);
+    background-image: url(img-bonus/pattern.png);
+    background-size: 40%;
+}
+
+.pattern img {
+    width: 250px;
+    margin-top: 50px;
+    margin-left: 130px;
+    margin-bottom: 10px;
+}
+
+.container {
+    width: 1000px;
+    margin: auto;
+}
+
+.title {
+    width: 850px;
+}
+
+#first-title {
+    font-size: 18px;
+}
+
+#second-title {
+    color: grey;
+}
+
+#second-title span {
+    color: rgb(93, 161, 248);
+}
+
+#picture {
+    width: 480px;
+    height: 360px;
+}
+
+#photo-info {
+    font-size: 12px;
+}
+
+.content {
+    font-size: 16px;
+}
+
+#highlighted {
+    background: yellow;
+}
+
+.list {
+    margin-left: 20px;
+}
+
+table {
+    width: 100%;
+    height: 200px;
+    border-collapse: collapse;
+}
+
+#table-head {
+    text-align: left;
+    color: white;
+    background: rgb(74, 169, 224)
+}
+
+#td-long, #td-long-colored {
+    width: 60%;
+}
+
+#td-long-colored, #td-short-colored {
+    background: rgb(187, 228, 240);
+}
+
+#footer-title-1 {
+    color: grey;
+}
+
+#footer-title-2 {
+    padding: 10px;
+}
+
+.footer-img-1 {
+    width: 220px;
+    height: 170px;
+    color: white;
+    background-image: url(img-bonus/monitor.jpg);
+    background-size: cover;
+}
+
+.footer-img-2 {
+    width: 220px;
+    height: 170px;
+    color: white;
+    background-image: url(img-bonus/graph.jpg);
+    background-size: cover;
+}
